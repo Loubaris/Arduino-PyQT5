@@ -59,7 +59,7 @@ class Ui_MainWindow(object):
         self.centralwidget = QtWidgets.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")
         self.title = QtWidgets.QLabel(self.centralwidget)
-        self.title.setGeometry(QtCore.QRect(40, 10, 91, 41))
+        self.title.setGeometry(QtCore.QRect(40, 10, 111, 41))
         self.title.setStyleSheet("background: transparent;\n"
 "font: 81 22pt \"Cantarell\";\n"
 "color: black;")
